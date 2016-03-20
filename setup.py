@@ -17,6 +17,7 @@ setup(
     version=version,
     author='Incuna Ltd',
     author_email='admin@incuna.com',
+    description='Custom FeinCMS pages with navigations exposed through the Django Rest framework.',
     url='https://github.com/incuna/feincms-pages-api/',
     packages=find_packages(),
     install_requires=install_requires,
